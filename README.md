@@ -4,4 +4,4 @@ This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
-Deployed to Heroku <a href="http://radiant-gorge-4339.herokuapp.com">radiant-gorge-4339.herokuapp.com</a>
+Deployed to <a href="http://radiant-gorge-4339.herokuapp.com">Heroku</a>
